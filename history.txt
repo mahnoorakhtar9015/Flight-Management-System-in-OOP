@@ -1,0 +1,8 @@
+********************************LAST MONTH TRAVEL HISTORY***************************
+
+countries                    visits
+Dubai                        2
+America                      3
+oman                         4 
+Saudi Arab                   5
+Japan                        6
